@@ -1,20 +1,28 @@
-# 🍔 Dashboard Big Hangus Hamburgueria
+# Dashboard Big Hangus Hamburgueria - Parelhas RN
 
 ## 📊 Indicadores Gerais
 - **Faturamento (Junho):** R$ 39,500.00
 - **Pedidos (Junho):** 1580
 - **Avaliação Média:** ⭐ 4.5/5
 
-## 📈 Faturamento Mensal
+##  Faturamento Mensal
 ![](faturamento.png)
 
-## 📦 Pedidos por Mês
+##  Pedidos por Mês
 ![](pedidos.png)
 
-## 🍟 Produtos Mais Vendidos
+##  Produtos Mais Vendidos
 ![](produtos.png)
 
-## 📲 Canais de Venda
+##  Canais de Venda
 ![](canais.png)
 
-> 💡 Insight: O Delivery iFood representa **60% das vendas**, sugerindo foco em promoções nesse canal.
+>Insights para Decisão
+
+Delivery via app (60% das vendas) → investir em promoções e cupons no iFood.
+
+Pedidos presenciais (35%) → possibilidade de aumentar vendas oferecendo combos exclusivos na loja.
+
+WhatsApp (5%) → oportunidade de criar campanhas de fidelização para clientes recorrentes.
+
+Avaliação 4.5/5 → ótimo resultado, com margem de melhora, com foco em tempo de entrega e experiência presencial.
